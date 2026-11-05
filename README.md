@@ -1,24 +1,34 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Manh Phu Nguyen (NEO)
-===============================================================================================================================================
+# Hi, I'm Phu (Neo) Nguyen <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28">
 
-Undergraduate Mathematics
----------------------------------
-🌍  I'm based in Waterloo, Canada<br>
-🖥️  I'm studying at University of Waterloo pursuing a Bachelor of Mathematics and Minor in Computing & Computational Mathematics<br>
-✉️  You can contact me at mpnguyen@uwaterloo.ca<br>
-🧠  I'm learning JavaScript, and Python in Machine Learning <br>
-🤝  I'm open to collaborating on every project
+**Bachelor of Mathematics, University of Waterloo** · Toronto, Ontario 🇨🇦
 
+I work where **finance, data, and technology** meet: cleaning and analyzing data, building clear dashboards and reports, and turning numbers into business decisions.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mpnguyenz&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mpnguyenz&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mpnguyenz&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 📊 **Focus:** Data Analysis · Financial Analysis · Business Intelligence
+- 🎓 **Background:** Corporate Finance, Accounting, Regression & Forecasting, Operations Research, Databases, Data-Intensive Distributed Analytics
+- 🤝 **Volunteering:** Mentor at the UW AFSA Tax Clinic (CRA Community Volunteer Income Tax Program, 2024 & 2026)
+- 🔎 **Open to:** Data Analyst, Financial Analyst, and Business Analyst roles in Ontario
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+## 🛠️ Tools
 
----
-[![](https://visitcount.itsvg.in/api?id=mpnguyenz&icon=0&color=6)](https://visitcount.itsvg.in)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+## 📁 Featured Projects
+
+| Project | What it shows |
+|---|---|
+| [BCG Data Science Virtual Experience (Forage)](https://github.com/mpnguyenz/BCG-Data-Science-Advanced-Analytics-Virtual-Internship-to-PowerCo-with-Forage) | Customer churn analysis for a utility client: data cleaning, EDA, feature engineering, and a Random Forest model |
+| [IBM Data Science Professional Certificate](https://github.com/mpnguyenz/IBM-Data-Science-Professional-Certificate) | Labs and projects from the IBM Data Science coursework in Python and Jupyter |
+| [Pedi N Nails East Gwillimbury website](https://www.pedinnails-eastgwillimbury.ca/) | WordPress + Elementor redesign for a local business |
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neonguyen888/)
+[![Email](https://img.shields.io/badge/Email-neonguyen0204%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:neonguyen0204@hotmail.com)
