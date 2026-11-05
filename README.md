@@ -24,8 +24,7 @@ I work where **finance, data, and technology** meet: cleaning and analyzing data
 
 | Project | What it shows |
 |---|---|
-| [BCG Data Science Virtual Experience (Forage)](https://github.com/mpnguyenz/BCG-Data-Science-Advanced-Analytics-Virtual-Internship-to-PowerCo-with-Forage) | Customer churn analysis for a utility client: data cleaning, EDA, feature engineering, and a Random Forest model |
-| [IBM Data Science Professional Certificate](https://github.com/mpnguyenz/IBM-Data-Science-Professional-Certificate) | Labs and projects from the IBM Data Science coursework in Python and Jupyter |
+| [BCG Data Science Virtual Experience (Forage)](https://github.com/mpnguyenz/BCG-Data-Science-Advanced-Analytics-Virtual-Internship-to-PowerCo-with-Forage) | Customer churn analysis for a utility client: data cleaning, EDA, feature engineering, and Random Forest models. Handled class imbalance to raise churn recall from 6% to 28%, plus a discount ROI analysis |
 | [Pedi N Nails East Gwillimbury website](https://www.pedinnails-eastgwillimbury.ca/) | WordPress + Elementor redesign for a local business |
 
 ## 📫 Connect
