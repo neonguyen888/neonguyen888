@@ -1,31 +1,42 @@
 # Hi, I'm Phu (Neo) Nguyen <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28">
 
-**Bachelor of Mathematics, University of Waterloo** · Toronto, Ontario 🇨🇦
+**Data Analyst · Financial Analyst** · Bachelor of Mathematics, University of Waterloo · Toronto, Ontario 🇨🇦
 
-I work where **finance, data, and technology** meet: cleaning and analyzing data, building clear dashboards and reports, and turning numbers into business decisions.
+Most of my favourite problems start with a messy spreadsheet and a simple question: what's really going on here? I like building the pipeline, checking that the numbers reconcile, and then putting the answer in a dashboard people can actually use.
 
-- 📊 **Focus:** Data Analysis · Financial Analysis · Business Intelligence
-- 🎓 **Background:** Corporate Finance, Accounting, Regression & Forecasting, Operations Research, Databases, Data-Intensive Distributed Analytics
-- 🤝 **Volunteering:** Mentor at the UW AFSA Tax Clinic (CRA Community Volunteer Income Tax Program, 2024 & 2026)
-- 🔎 **Open to:** Data Analyst, Financial Analyst, and Business Analyst roles in Ontario
+- **Focus:** SQL, reporting and dashboards, forecasting, data quality
+- **Open to:** Data Analyst, Reporting Analyst, BI Analyst and Financial Analyst roles in Ontario
+
+## 📊 Dashboards
+
+<p>
+  <a href="https://github.com/neonguyen888/Canadian-Federal-Procurement-Audit-Analytics"><img src="https://raw.githubusercontent.com/neonguyen888/Canadian-Federal-Procurement-Audit-Analytics/main/tableau/screenshots/1_overview.png" width="49%" alt="Tableau dashboard for the federal procurement review"></a>
+  <a href="https://github.com/neonguyen888/Canada-mortgage-renewal-forecast"><img src="https://raw.githubusercontent.com/neonguyen888/Canada-mortgage-renewal-forecast/main/powerbi/screenshots/01_overview.png" width="49%" alt="Power BI report for the mortgage renewal book"></a>
+</p>
+<sub>Left: Tableau review queue for federal contracts. Right: Power BI report for a simulated mortgage renewal book. Click either one to open the project.</sub>
+
+## 📁 Projects
+
+| Project | Stack | What it shows |
+|---|---|---|
+| [Canadian Federal Procurement Audit Analytics](https://github.com/neonguyen888/Canadian-Federal-Procurement-Audit-Analytics) | PostgreSQL · Python · Tableau | ETL pipeline on 1.3M Government of Canada contract records. Ranks 427,302 awards ($156.1B) for review with five regulation-based checks and a 0 to 100 risk score. Every check is written in both SQL and pandas, and the two agree award by award. 3-page Tableau dashboard. |
+| [Canadian Mortgage Renewal Forecast](https://github.com/neonguyen888/Canada-mortgage-renewal-forecast) | Python · PostgreSQL · Power BI | Backtested 5-year fixed-rate forecasts on Bank of Canada data over 123 rolling origins. A bond-yield regression cut 3-month error to 11.6 bps from 24.3 bps for a naive baseline. 30 data-quality checks in PostgreSQL and a 5-page Power BI dashboard (DAX) for a simulated 5,000-loan book. |
+| [PowerCo Customer Churn (BCG / Forage)](https://github.com/neonguyen888/BCG-Data-Science-Advanced-Analytics-Virtual-Internship-to-PowerCo-with-Forage) | Python · scikit-learn | A churn model with 90% accuracy was catching only 6% of the customers about to leave. Class weighting and a tuned threshold raised that to 28%, plus a check on whether a 20% retention discount pays off. |
 
 ## 🛠️ Tools
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📁 Featured Projects
+## 🌐 Web
 
-| Project | What it shows |
-|---|---|
-| [BCG Data Science Virtual Experience (Forage)](https://github.com/neonguyen888/BCG-Data-Science-Advanced-Analytics-Virtual-Internship-to-PowerCo-with-Forage) | Customer churn analysis for a utility client: data cleaning, EDA, feature engineering, and Random Forest models. Handled class imbalance to raise churn recall from 6% to 28%, plus a discount ROI analysis |
-| [Pedi N Nails East Gwillimbury website](https://www.pedinnails-eastgwillimbury.ca/) | WordPress + Elementor redesign for a local business |
+- **Website redesign** for [Pedi N Nails East Gwillimbury](https://www.pedinnails-eastgwillimbury.ca/), a freelance project: 6-page site in WordPress, Elementor and custom HTML/CSS, with online booking linked to BelleBooking.
 
 ## 📫 Connect
 
